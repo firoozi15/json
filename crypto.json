@@ -1,0 +1,184 @@
+{
+    "Coins": [
+        {
+            "title": "Bitcoin",
+            "code": "BTC",
+            "price": "609870039",
+            "min": "607100123",
+            "mean": "612242498",
+            "max": "620000000",
+            "change": -0.0017
+        },
+        {
+            "title": "Binance Coin",
+            "code": "BNB",
+            "price": "8872930",
+            "min": "8700400",
+            "mean": "8870449",
+            "max": "8999000",
+            "change": 0.0075
+        },
+        {
+            "title": "Ethereum",
+            "code": "ETH",
+            "price": "41921996",
+            "min": "41298700",
+            "mean": "42266956",
+            "max": "42998998",
+            "change": -0.0209
+        },
+        {
+            "title": "TRON",
+            "code": "TRX",
+            "price": "1919",
+            "min": "1902",
+            "mean": "1931",
+            "max": "1957",
+            "change": -0.0124
+        },
+        {
+            "title": "Polkadot",
+            "code": "DOT",
+            "price": "204711",
+            "min": "198040",
+            "mean": "202961",
+            "max": "210000",
+            "change": 0.0018
+        },
+        {
+            "title": "Chainlink",
+            "code": "LINK",
+            "price": "247662",
+            "min": "247662",
+            "mean": "252773",
+            "max": "260000",
+            "change": -0.0075
+        },
+        {
+            "title": "Filecoin",
+            "code": "FIL",
+            "price": "182119",
+            "min": "178110",
+            "mean": "182882",
+            "max": "192500",
+            "change": 0.0195
+        },
+        {
+            "title": "Fantom",
+            "code": "FTM",
+            "price": "7305",
+            "min": "7174",
+            "mean": "7335",
+            "max": "7500",
+            "change": -0.0034
+        },
+        {
+            "title": "Solana",
+            "code": "SOL",
+            "price": "1061823",
+            "min": "1030000",
+            "mean": "1065340",
+            "max": "1110000",
+            "change": -0.0352
+        },
+        {
+            "title": "Cardano",
+            "code": "ADA",
+            "price": "14210",
+            "min": "14201",
+            "mean": "14563",
+            "max": "14850",
+            "change": -0.0285
+        },
+        {
+            "title": "Ripple",
+            "code": "XRP",
+            "price": "15549",
+            "min": "15358",
+            "mean": "15919",
+            "max": "16850",
+            "change": -0.0059
+        },
+        {
+            "title": "Monero",
+            "code": "XMR",
+            "price": "4600000",
+            "min": "4500000",
+            "mean": "4750000",
+            "max": "4600000",
+            "change": -0.0101
+        },
+        {
+            "title": "EOS",
+            "code": "EOS",
+            "price": "37390",
+            "min": "37257",
+            "mean": "38373",
+            "max": "39540",
+            "change": -0.0414
+        },
+        {
+            "title": "Tezos",
+            "code": "XTZ",
+            "price": "46449",
+            "min": "46297",
+            "mean": "47351",
+            "max": "48848",
+            "change": -0.0268
+        },
+        {
+            "title": "Cosmos",
+            "code": "ATOM",
+            "price": "455924",
+            "min": "439100",
+            "mean": "454592",
+            "max": "480000",
+            "change": 0.0091
+        },
+        {
+            "title": "Stellar",
+            "code": "XLM",
+            "price": "3751",
+            "min": "3707",
+            "mean": "3817",
+            "max": "3997",
+            "change": -0.0147
+        },
+        {
+            "title": "GRAPH",
+            "code": "GRT",
+            "price": "3268",
+            "min": "3200",
+            "mean": "3324",
+            "max": "3523",
+            "change": -0.0145
+        },
+        {
+            "title": "Aave",
+            "code": "AAVE",
+            "price": "2401227",
+            "min": "2363502",
+            "mean": "2426866",
+            "max": "2514133",
+            "change": -0.0233
+        },
+        {
+            "title": "Gala",
+            "code": "GALA",
+            "price": "1307",
+            "min": "1296",
+            "mean": "1320",
+            "max": "1348",
+            "change": -0.0068
+        },
+        {
+            "title": "ApeCoin",
+            "code": "APE",
+            "price": "182435",
+            "min": "171814",
+            "mean": "178967",
+            "max": "186456",
+            "change": 0.0291
+        }
+    ]
+}
